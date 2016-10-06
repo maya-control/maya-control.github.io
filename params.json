@@ -1,0 +1,6 @@
+{
+  "name": "Maya Control",
+  "tagline": "The Maya Control front-end",
+  "body": "Maya Control aims to provide an identical replica of https://packagecontrol.io - along with the surrounding infrastructure and tools - for the Autodesk Maya community.\r\n\r\n**Objectives**\r\n\r\n- Encourage distribution of small Maya utilities\r\n- Encourage sharing and an open development of Maya utilities\r\n- Encourage automated testing for robust Maya utilities\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
